@@ -1,0 +1,13 @@
+ol {
+  list-style-type: lower-roman;
+}
+ul > li {
+  list-style-image: url("/./images/galio.jpg");
+  list-style-type: none;
+  background-image: url("/./images/garen.jpg");
+  background-repeat: no-repeat;
+  background-size: 5px;
+  background-position: left center;
+  margin: 0;
+  padding: 20px 0 20px 10px;
+}

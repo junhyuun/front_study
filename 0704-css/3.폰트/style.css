@@ -1,0 +1,44 @@
+p {
+  /* 글꼴 크기 */
+  font-size: 32px;
+  /* 글꼴 두께 */
+  /* 
+  100 : lighter 
+  400 : nomal(기본값)
+  700 : bold
+  900 : bolder
+  */
+
+  font-weight: 100;
+}
+
+/* 16px = 1em = 100% */
+body {
+  /* 줄간격 */
+  line-height: 32px;
+  /* 글꼴 */
+  font-family: 'Courier New', Courier, monospace;
+
+  /* 글꼴 스타일 */
+  font-style: italic;
+
+  /* 소문자를 대문자로 바꿈 */
+  font-variant: small-caps;
+
+  
+  }
+
+  h5{
+    /* 대소문자 설정 */
+    text-transform: uppercase;
+    /* 그림자 */
+    /* 가로 세로 그림자퍼짐 그림자색 */
+    text-shadow: 1px 2px 1px gray
+                  2px 4px 3px green;
+
+    /* 자간 */
+    letter-spacing: 5px;
+    /* 단어 간격 */
+    word-spacing: 30px;
+  }
+

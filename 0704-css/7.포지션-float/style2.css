@@ -1,0 +1,38 @@
+
+
+.menu {
+  background-color: aqua;
+  height: 100px;
+  width: 500px;
+  font-size: 10px;
+}
+
+.nav{
+  background-color: aquamarine;
+  width: 100px;
+  height: 300px;
+  font-size: 10px;
+  float: left;
+}
+
+.content {
+  background-color: cadetblue;
+  font-size: 10px;
+  height: 300px;
+  width: 500px;
+  
+}
+
+.footer {
+  background-color: darkcyan;
+  font-size: 10px;
+  height: 100px;
+  width: 500px;
+  
+}
+
+.container {
+  width: 500px;
+  height: 500px;
+  margin: auto;
+}
