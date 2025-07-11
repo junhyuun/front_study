@@ -1,0 +1,101 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fff7ef;
+  color: #333;
+}
+
+header {
+  background: #fff;
+  padding: 2px;
+  margin: 1px;
+  
+  border-bottom: 1px solid #eee;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.orange {
+    color: orange;
+    font-size: 2em;
+    
+}
+
+nav ul {
+    
+  list-style: none;
+  display: flex;
+  gap: 40px;
+}
+
+.here {
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+  background: #fef8f4;
+}
+
+.here .text {
+  max-width: 100%;
+}
+
+.here h2 {
+  font-size: 4em;
+}
+
+.here p {
+    font-size: 2em;
+}
+
+.bag img {
+  width: 800px;
+  border-radius: 20px;
+}
+
+.product {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background: white;
+}
+
+.bag {
+  display: flex;
+  gap: 20px;
+  height: 1000px;
+}
+
+
+.item {
+    display: flex;
+  background: white;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.font h1 {
+    font-size: 4em;
+    text-align: right;
+}
+
+.font p {
+    font-size: 2em;
+}
+
+.look {
+    font-size: 2em;
+   border: white;
+   width: 250px;
+   height: 100px;
+
+}
+
+.trust {
+    font-size: 2em;
+    border: white;
+    width: 400px;
+    height: 100px;
+}
